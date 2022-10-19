@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg76"
+   width="85.440002"
+   height="62.080002"
+   viewBox="0 0 85.440002 62.080002"
+   sodipodi:docname="mylogo.png"
+   inkscape:export-filename="mylogo-white.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs80" />
+  <sodipodi:namedview
+     id="namedview78"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g82">
+    <path
+       style="fill:#000000;stroke-width:0.32"
+       d="M 1.4613046,31.177386 V 1.4053172 H 31.019388 60.577473 l 2.788515,0.486276 c 9.388711,1.637254 18.358769,8.8466758 20.795441,16.7137248 l 0.223008,0.72 h -4.642801 -4.6428 L 74.071953,17.398686 C 70.917863,11.481009 64.351918,8.1828668 56.390068,8.5168968 l -3.568762,0.149723 -2.489097,0.850141 C 43.08202,11.993033 36.661306,20.040585 36.661306,26.651508 v 0.67381 h 6.24 6.24 v 3.36 3.36 h -6.379882 -6.379881 l 0.169184,1.2 c 2.725657,19.332596 28.345076,26.107044 37.515175,9.92 l 1.042374,-1.84 h 4.616516 c 2.539085,0 4.616515,0.0752 4.616515,0.167104 0,5.009207 -10.463117,14.259063 -18.72,16.54931 l -2.560001,0.710077 -30.8,0.09882 -30.8000014,0.09883 z M 35.974547,51.697466 C 32.111603,47.580723 29.58641,42.348877 28.651595,36.525318 l -0.398098,-2.48 H 18.217401 8.1813046 v 10.08 10.080001 H 23.254548 38.327792 Z M 28.715053,25.616437 C 29.485966,20.224698 32.42026,14.350854 36.45368,10.125317 L 38.362749,8.1253168 H 23.272027 8.1813046 v 9.6044962 9.604495 l 10.1561444,-0.0845 10.156144,-0.0845 z"
+       id="path1029" />
+  </g>
+</svg>
